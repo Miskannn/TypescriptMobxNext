@@ -1,0 +1,14 @@
+.Todo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.cast{
+  width: 100%;
+  font-size: 15;
+  margin: 5;
+  padding: 5;
+  border: 1px solid #32a852;
+  box-sizing: border-box;
+}
